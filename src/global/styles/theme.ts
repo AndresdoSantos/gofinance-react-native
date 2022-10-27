@@ -14,6 +14,12 @@ export default {
     shape: "#FFFFFF",
     title: "#3635F5",
     text: "#969CB2",
+    text_dark: "#000000",
     background: "#F0F2F5",
+  },
+  fonts: {
+    regular: "Roboto_400Regular",
+    medium: "Roboto_500Medium",
+    bold: "Roboto_700Bold",
   },
 } as const;
