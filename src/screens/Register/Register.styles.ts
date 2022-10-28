@@ -26,5 +26,14 @@ export const RegisterTitle = styled.Text`
 export const RegisterForm = styled.View`
   padding: 24px;
   flex: 1;
+  justify-content: space-between;
   width: 100%;
+`;
+
+export const RegisterFields = styled.View``;
+
+export const RegisterFieldsTransactionsTypes = styled.View`
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 `;
